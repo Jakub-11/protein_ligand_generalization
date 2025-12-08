@@ -2,8 +2,7 @@
 
 Hi!
 
-This is the official repository for our upcoming paper.
-Paper link coming soon.
+This is the official repository for [our paper.](https://arxiv.org/abs/2512.05386)
 
 This repository is a work in progress — more content will be added shortly.
 
